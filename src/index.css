@@ -11,3 +11,18 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.toggle-button {
+  margin-top: 1.5em;
+  width: 10em;
+  border: 0;
+  outline: none;
+  padding: 1em;
+  border-radius: 10em;
+  font-weight: bold;
+}
+
+.toggle-button:hover {
+  color: #282c34;
+  background-color: #61dafb;
+}
